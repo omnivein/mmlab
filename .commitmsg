@@ -1,0 +1,43 @@
+Subject line (try to keep under 50 characters)
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ >> BRIEF DESCRIPTION >> 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------------------------
+(+) Multi-line description of commit,
+  -> Another line
+  -> Another one
+-------------------------------------------------
+(+) Try to be short and briefly describe the changes
+-------------------------------------------------
+(+) If more details is to be described it can be done below
+  -> And this is another line of description
+  -> another one
+-------------------------------------------------
+(+) This is the last line of description
+-------------------------------------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ >> DETAILED DESCRIPTION >>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+:::::::::::::::::::::::::::::::::::::::::::::::::
+(*) Sample clause label 
+:::::::::::::::::::::::::::::::::::::::::::::::::
+-> Some long long long
+-> long long long long
+-> long long long long
+-> description
+::::::::::::::::::::::::::::::::::::::::::::::::::
+(*) Another Sample clause label 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+-> Some another veeeee 
+-> eery long long long
+-> long long long long
+-> long long long long
+-> description
+::::::::::::::::::::::::::::::::::::::::::::::::::
