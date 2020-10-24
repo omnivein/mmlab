@@ -7,7 +7,7 @@
 
 1. Clone the project to your local machine with:
     ```
-    > git clone https://github.com/omnivein/mmlab
+    > git clone https://github.com/omnivein/mmlab.git
     ```
 2. Change directory to the root of the project:
     ```
